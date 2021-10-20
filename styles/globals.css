@@ -101,3 +101,11 @@ body {
 .headphone{
     width:150px;
 }
+.svgbasket{
+
+padding-top:5px ;
+margin-top: 12px;
+float: right;
+width: 100px;
+height: 25px;
+}
