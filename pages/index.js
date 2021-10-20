@@ -58,7 +58,7 @@ export default function Home() {
           </div>
         </p>
       </div>
-      <div>
+     <div>
         <p class="p1">
           <div class="columns">
             <ul class="price">
@@ -74,7 +74,7 @@ export default function Home() {
             </ul>
           </div>
         </p>
-      </div>
+    </div>
       <div>
         <p class="p1">
           <div class="columns">

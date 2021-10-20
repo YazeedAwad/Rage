@@ -9,5 +9,6 @@ export default function Home() {
           Home
         </a>
 </div>
+<h1><p>Coming Soon...</p></h1>
        </>
   )}
