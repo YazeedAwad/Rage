@@ -8,13 +8,10 @@ export default function Home() {
         <nav class="nav main-nav">
           <ul>
             <li>
-              <a href="index.html">HOME</a>
+              <a href="index.js">STORE</a>
             </li>
             <li>
-              <a href="store.html">STORE</a>
-            </li>
-            <li>
-              <a href="about.html">ABOUT</a>
+              <a href="about.basket.js">ABOUT</a>
             </li>
           </ul>
         </nav>
@@ -47,9 +44,7 @@ export default function Home() {
         <br></br>
         <br></br>
         <br></br>
-        <p>
-          
-        </p>
+        <p></p>
       </section>
 
       <footer class="main-footer">
@@ -58,7 +53,7 @@ export default function Home() {
           <ul class="nav footer-nav">
             <li>
               <a href="https://www.youtube.com" target="_blank">
-                <img src="Images/YouTubeLogo.png" />
+                <img src="Images/youTube logo.png" />
               </a>
             </li>
           </ul>
