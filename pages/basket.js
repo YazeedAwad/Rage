@@ -52,7 +52,7 @@ export default function Home() {
           <h3 class="band-name">The Gamers!</h3>
           <ul class="nav footer-nav">
             <li>
-              <a href="https://www.youtube.com" target="_blank">
+              <a href="https://www.youtube.com/channel/UCDPPnhdO7Zg9W0FQhSY2Ycg" target="_blank">
                 <img src="Images/youtube logo.png" />
               </a>
             </li>

@@ -166,14 +166,13 @@ height: 25px;
 .band-name {
     text-align: center;
     margin: 0;
-    font-size: 4em;
-    
+    font-size: 3em;
     font-weight: normal;
     color: white;
 }
 
 .band-name-large {
-    font-size: 8em;
+    font-size: 5em;
 }
 
 .content-section {
