@@ -13,7 +13,7 @@ a          About
         </a>
       </div>
       <h2>
-        <p class="p1"> All Product</p>
+        <p class="p1"> All Product.</p>
       </h2>
       <div>
         <p class="p1">
