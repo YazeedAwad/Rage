@@ -23,7 +23,7 @@ export default function Home() {
 
       <section class="content-section container">
         <h2 class="section-header">ABOUT</h2>
-        <img class="about-band-image" src="Images/Band Members.png" />
+        <img class="about-band-image" src="Images/image.jpg" />
         <p>
           Hello Gamer! In this website you will be seeing Gaming products, and
           other stuff that will increase your experience in gaming. We have a
@@ -48,12 +48,7 @@ export default function Home() {
         <br></br>
         <br></br>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio
-          qui consequuntur aut. Nobis debitis ipsum soluta sit itaque officiis
-          impedit maiores suscipit magni id harum consequuntur quas delectus
-          culpa, saepe nostrum, autem ullam! Assumenda molestiae reprehenderit
-          sunt ducimus id saepe porro vitae asperiores eum accusantium? Illum
-          aliquid excepturi magni quos.
+          
         </p>
       </section>
 
