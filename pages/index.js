@@ -4,6 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
+    
       <div class="topnav">
       <a class="active a-link" href="/">
           Home
@@ -60,7 +61,12 @@ export default function Home() {
               <li class="grey">
                 <a href="#cart" class="button">
                   Add to cart{" "}
-                </a>
+                </a> <meta charset="utf-8">
+  <meta name="description" content="This is a managing tournaments website.">
+  <meta name="author" content="Yazeed">
+  <meta name="keywords" content="HTML , Apex tournament , Tournaments , managing , managing Tournaments">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
               </li>
             </ul>
           </div>
