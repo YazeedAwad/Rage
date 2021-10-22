@@ -18,7 +18,7 @@ export default function Home() {
             </li>
           </ul>
         </nav>
-        <h1 class="band-name band-name-large">The Gamers</h1>
+        <h1 class="band-name band-name-large">The Gamers!</h1>
       </header>
 
       <section class="content-section container">
@@ -30,6 +30,7 @@ export default function Home() {
           Graphic Cards, CPU's, Motherboards, Ram's and many other things.
           We are working hard to deliever them to our costumers properly and FAST!
         </p>
+        <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio
           qui consequuntur aut. Nobis debitis ipsum soluta sit itaque officiis
@@ -42,7 +43,7 @@ export default function Home() {
 
       <footer class="main-footer">
         <div class="container main-footer-container">
-          <h3 class="band-name">The Generics</h3>
+          <h3 class="band-name">The Gamers!</h3>
           <ul class="nav footer-nav">
             <li>
               <a href="https://www.youtube.com" target="_blank">
