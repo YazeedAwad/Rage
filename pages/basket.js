@@ -24,13 +24,25 @@ export default function Home() {
       <section class="content-section container">
         <h2 class="section-header">ABOUT</h2>
         <img class="about-band-image" src="Images/Band Members.png" />
-        <p>Hello Gamer! In this website you will be seeing Gaming products,
-          and other stuff that will increase your experience in gaming.
-          We have a variety of products that you can use and upgrade such as :
-          Graphic Cards, CPU's, Motherboards, Ram's and many other things.
-          We are working hard to deliever them to our costumers properly and FAST!
+        <p>
+          Hello Gamer! In this website you will be seeing Gaming products, and
+          other stuff that will increase your experience in gaming. We have a
+          variety of products that you can use and upgrade such as : Graphic
+          Cards, CPU's, Motherboards, Ram's and many other things. We are
+          working hard to deliever them to our costumers properly and FAST!
         </p>
-        <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio
           qui consequuntur aut. Nobis debitis ipsum soluta sit itaque officiis
