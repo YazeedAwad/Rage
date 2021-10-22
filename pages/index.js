@@ -9,7 +9,7 @@ export default function Home() {
           Home
         </a>
         <a class="active a-link" href="/about"  >
-a          About
+          About
         </a>
       </div>
       <h2>
