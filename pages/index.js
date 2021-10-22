@@ -8,9 +8,7 @@ export default function Home() {
         <a class="active a-link" href="/">[]
           Home
         </a>
-        <a class="active a-link" href="/about">
-          About
-        </a>
+        <a class="active a-link" href="/about"></a>
       </div>
       <h2>
         <p class="p1"> All Product.</p>
