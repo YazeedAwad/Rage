@@ -8,8 +8,8 @@ export default function Home() {
         <a class="active a-link" href="/">
           Home
         </a>
-        <a href="/basket"  >
-          
+        <a class="active a-link" href="/basket"  >
+          About
         </a>
       </div>
       <h2>

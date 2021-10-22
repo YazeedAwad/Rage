@@ -8,7 +8,7 @@ export default function Home() {
         <nav class="nav main-nav">
           <ul>
             <li>
-              <a href="index.js">STORE</a>
+              <a href="/index">STORE</a>
             </li>
             <li>
               <a href="/basket">ABOUT</a>
