@@ -11,7 +11,7 @@ export default function Home() {
               <a href="index.js">STORE</a>
             </li>
             <li>
-              <a href="about.basket.js">ABOUT</a>
+              <a href="/basket">ABOUT</a>
             </li>
           </ul>
         </nav>
