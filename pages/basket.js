@@ -53,7 +53,7 @@ export default function Home() {
           <ul class="nav footer-nav">
             <li>
               <a href="https://www.youtube.com" target="_blank">
-                <img src="Images/youTube logo.png" />
+                <img src="Images/youtube logo.png" />
               </a>
             </li>
           </ul>
