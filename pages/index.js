@@ -5,13 +5,15 @@ export default function Home() {
   return (
     <>
       <div class="topnav">
-        <a class="active a-link" href="/">[]
+      <a class="active a-link" href="/">
           Home
         </a>
-        <a class="active a-link" href="/about"></a>
+        <a class="active a-link" href="/about">
+          About
+        </a>
       </div>
       <h2>
-        <p class="p1"> All Product.</p>
+        <p class="p1"> All Product</p>
       </h2>
       <div>
         <p class="p1">

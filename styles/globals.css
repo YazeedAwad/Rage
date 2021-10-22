@@ -1,15 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.body1 {
+* {
   background-color: dimgrey;
 }
 .topnav {
   overflow: hidden;
   background-color: #191919;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: lighter;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .topnav .a-link {
+  display: inline;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -24,6 +29,7 @@
 }
 
 .topnav a.active {
+  text-align: center;
   background-color: #04aa6d;
   color: white;
 }
@@ -31,52 +37,6 @@
 .h1 {
   color: white;
   text-align: center;
-}
-
-.columns {
-  float: left;
-  width: 33.3%;
-  padding: 8px;
-}
-
-.price {
-  list-style-type: none;
-  border: 1px solid #eee;
-  margin: 0;
-  padding: 0;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
-}
-
-.price:hover {
-  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
-}
-
-.price .header {
-  background-color: #111;
-  color: white;
-  font-size: 25px;
-}
-
-.price li {
-  border-bottom: 1px solid #eee;
-  padding: 20px;
-  text-align: center;
-}
-
-.price .grey {
-  background-color: #eee;
-  font-size: 20px;
-}
-
-.button {
-  background-color: #04aa6d;
-  border: none;
-  color: white;
-  padding: 10px 25px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 18px;
 }
 
 .keyboard {
@@ -98,6 +58,26 @@
 }
 .p1 {
   text-align: center;
-  color: white;
-  font-size: 3em;
+  color: #191919;
+  font-size: 4em;
+}
+.p2 {
+  font-size: 2em;
+  color: #191919;
+}
+.image {
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  border-radius: 50%;
+}
+.content-section {
+  margin: 1em;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5em;
 }
