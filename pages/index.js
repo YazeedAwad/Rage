@@ -56,7 +56,7 @@ export default function Main() {
 
               <div className="xl:w-1/3 md:w-1/2 p-4 mb-6">
                 <Image
-                  src="https://jacklatimer.design/images/placeholder.png"
+                  src="https://gamingshop.vercel.app/Images/monitor1.png"
                   alt="Design"
                   height={1100}
                   width={1100}
