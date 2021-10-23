@@ -4,7 +4,8 @@ module.exports = {
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ['jacklatimer.design','media.steelseriescdn.com' ],
+    domains: ['jacklatimer.design','media.steelseriescdn.com' , 'gamingshop.vercel.app' ],
+    
   },
 
 }
